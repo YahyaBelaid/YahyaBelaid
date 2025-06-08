@@ -1,7 +1,7 @@
 👋 Hi, I’m Mohamed Yahya Belaid
 Welcome to my GitHub profile!
 ## 👀 Interests
-I'm passionate about software development, web technologies, artificial intelligence, and all things tech.
+I'm passionate about software development, web technologies and artificial intelligence.
 ## 💻 Skills & Technologies
 
 <p align="left">
@@ -17,13 +17,13 @@ I'm passionate about software development, web technologies, artificial intellig
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="filter: brightness(150%)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </p>
 
 # 🤝 Looking to Collaborate On
   Open source projects, web applications, or anything that helps me grow as a software developer.
+  
 📫 How to reach me ...
   Email: yahyabelaid303@gmail.com
-
