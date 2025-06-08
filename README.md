@@ -23,7 +23,8 @@ I'm passionate about software development, web technologies and artificial intel
 </p>
 
 # 🤝 Looking to Collaborate On
-  Open source projects, web applications, or anything that helps me grow as a software developer.
+  Eager to collaborate on open source projects, build innovative web applications, and pursue opportunities that enhance my skills as a software developer.
   
-📫 How to reach me ...
+📫 How to reach me 
+
   Email: yahyabelaid303@gmail.com
